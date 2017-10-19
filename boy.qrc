@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMAGES/UNITS/BOY/IDLE_1.PNG</file>
+        <file>IMAGES/UNITS/BOY/IDLE_2.PNG</file>
+        <file>IMAGES/UNITS/BOY/IDLE_3.PNG</file>
+        <file>IMAGES/UNITS/BOY/IDLE_4.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_1.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_2.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_3.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_4.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_5.PNG</file>
+        <file>IMAGES/UNITS/BOY/JUMP_6.PNG</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMAGES/UNITS/ZOMBY4/IDLE_1.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/IDLE_2.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/IDLE_3.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/IDLE_4.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_1.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_2.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_3.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_4.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_5.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_6.png</file>
+        <file>IMAGES/UNITS/ZOMBY4/JUMP_7.png</file>
+    </qresource>
+</RCC>
